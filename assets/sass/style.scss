@@ -7,6 +7,13 @@
   padding: 0 10px;
 }
 
+.header {
+  background-image: url("../images/desk-header.png");
+  height: 540px;
+  padding: 19px 0 0 0;
+  margin: 0 0 65px 0;
+}
+
 @media (min-width: 768px) {
   .container{
     width: 740px;
